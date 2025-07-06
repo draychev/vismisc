@@ -1,0 +1,282 @@
+{
+  "Soul": {
+    "description": "Gospel & rhythm\u202f&\u202fblues into catchy, funky secular worship.",
+    "artists": ["Marvin Gaye", "Curtis Mayfield"],
+    "derivatives": ["Jazz\u00a0Funk", "Modern\u00a0R&B"]
+  },
+  "Jazz": {
+    "description": "Blue notes, swinging, improvisation, and all kinds of rhythms.",
+    "artists": ["Miles Davis", "Chet Baker"],
+    "derivatives": ["Jazz\u00a0Funk"]
+  },
+  "Jazz\u00a0Funk": {
+    "description": "Groovy mix of electric and electronic sounds mixed with jazz riffs and feels.",
+    "artists": ["Herbie Hancock", "Incognito"],
+    "derivatives": ["Acid\u00a0Jazz"]
+  },
+  "Acid\u00a0Jazz": {
+    "description": "Looped beats with jazzy chords and structures.",
+    "artists": ["Jamiroquai", "Brand\u00a0New\u00a0Heavies"],
+    "derivatives": []
+  },
+  "Modern\u00a0R&B": {
+    "description": "Modern R&B with grittier, urban themes.",
+    "artists": ["Mary\u00a0J\u202fBlige", "Kelis"],
+    "derivatives": ["HipHop\u00a0Soul"]
+  },
+  "HipHop\u00a0Soul": {
+    "description": "",
+    "artists": [],
+    "derivatives": ["Neo\u00a0Soul"]
+  },
+  "Neo\u00a0Soul": {
+    "description": "Groovy, hip\u2011hop and jazz\u2011tinted soul with a soulful, underground sensibility.",
+    "artists": ["Lauryn\u00a0Hill", "Macy\u00a0Gray"],
+    "derivatives": []
+  },
+  "Funk": {
+    "description": "Taking the smooth out of soul, with syncopated, danceable rhythms.",
+    "artists": ["James\u00a0Brown", "Parliament"],
+    "derivatives": ["House"]
+  },
+  "Disco": {
+    "description": "Flashing off\u2011beat hi\u2011hats and sweeping violin runs; the sound of New\u202fYork in the mid\u20111970s.",
+    "artists": ["KC\u202f&\u202fThe\u202fSunshine\u202fBand", "Chic"],
+    "derivatives": ["House", "EuroDisco"]
+  },
+  "EuroDisco": {
+    "description": "The catchy, bouncy, un\u2011sexy tunes your mum really likes.",
+    "artists": ["ABBA", "Cerrone"],
+    "derivatives": ["HiNRG"]
+  },
+  "HiNRG": {
+    "description": "Fast non\u2011funky disco with bass twangs and hand\u2011claps.",
+    "artists": ["Dead\u202for\u202fAlive", "Hazell\u202fDean"],
+    "derivatives": []
+  },
+  "Ambient": {
+    "description": "Soundscapes that can be listened to or ignored. Your choice.",
+    "artists": ["Brian\u202fEno", "John\u202fCage"],
+    "derivatives": ["House", "Ambient\u202fHouse"]
+  },
+  "Reggae": {
+    "description": "Off\u2011beat rhythms and songs about love & injustice.",
+    "artists": ["Bob\u202fMarley", "Jimmy\u202fCliff"],
+    "derivatives": ["Dub", "Dancehall"]
+  },
+  "Dub": {
+    "description": "Remixes emphasising the drums and bass (riddim) of reggae.",
+    "artists": ["Lee\u202fScratch\u202fPerry", "King\u202fTubby"],
+    "derivatives": ["HipHop"]
+  },
+  "Dancehall": {
+    "description": "Sparser and de\u2011politicised reggae with keyboards.",
+    "artists": ["Sugar\u202fMinott", "Eek\u2011a\u2011Mouse"],
+    "derivatives": ["Ragga"]
+  },
+  "Ragga": {
+    "description": "Reggae collides with synths, drum\u2011machines and electronic production techniques.",
+    "artists": ["Shabba\u202fRanks", "Beenie\u202fMan"],
+    "derivatives": ["Jungle"]
+  },
+  "Jungle": {
+    "description": "Fast, off\u2011beat, often cut\u2011up beats with a dark flavour.",
+    "artists": ["Fabio", "Grooverider"],
+    "derivatives": ["D&B"]
+  },
+  "D&B": {
+    "description": "Music based on slow, dubby bass\u2011lines playing at half the speed of a rapid, clattering rhythm.",
+    "artists": ["Goldie", "Roni\u202fSize"],
+    "derivatives": ["Jump\u202fUp", "Intelligent\u202fD&B", "Crunk"]
+  },
+  "Jump\u202fUp": {
+    "description": "More lightweight than standard D&B; synth stabs and wobbly bass.",
+    "artists": ["Aphrodite", "DJ\u202fZinc"],
+    "derivatives": ["Tech\u202fStep"]
+  },
+  "Tech\u202fStep": {
+    "description": "",
+    "artists": [],
+    "derivatives": ["NeuroFunk"]
+  },
+  "NeuroFunk": {
+    "description": "Harsher, darker, further pared\u2011down techstep.",
+    "artists": ["Optical", "Phace"],
+    "derivatives": []
+  },
+  "Intelligent\u202fD&B": {
+    "description": "Jazzier\u2011leaning drum\u202f&\u202fbass with Rhodes pianos and complex harmonic arrangements.",
+    "artists": ["LTJ\u202fBukem", "Photek"],
+    "derivatives": ["Deep\u202fHouse"]
+  },
+  "HipHop": {
+    "description": "\u201cTwo turntables and a microphone\u201d. Rapping over sampled beats.",
+    "artists": ["Sugar\u202fHill\u202fGang", "N.W.A"],
+    "derivatives": ["Electro\u202fHop", "Gangsta\u202fRap", "Tech\u202fHouse"]
+  },
+  "Electro\u202fHop": {
+    "description": "Electro music fused with rap and heavy bass\u2011lines.",
+    "artists": ["LA\u202fDream\u202fTeam", "World\u202fClass\u202fWreckin\u202fCru"],
+    "derivatives": ["Gangsta\u202fRap"]
+  },
+  "Gangsta\u202fRap": {
+    "description": "More aggressive elements of hip\u2011hop with violent, gun\u2011centric themes.",
+    "artists": ["Ice\u2011T", "N.W.A"],
+    "derivatives": []
+  },
+  "Crunk": {
+    "description": "Stripped beats, party melodies \u2013 jumping on hip\u2011hop\u2019s grave.",
+    "artists": ["OutKast", "Lil\u202fJon"],
+    "derivatives": []
+  },
+  "House": {
+    "description": "Four\u2011to\u2011the\u2011floor drum\u2011beat.",
+    "artists": ["Farley\u202fJackmaster\u202fFunk", "Technotronic"],
+    "derivatives": ["Chicago\u202fHouse", "Acid\u202fHouse", "Deep\u202fHouse", "ProgHouse", "Ambient\u202fHouse", "Tech\u202fHouse", "UK\u202fGarage"]
+  },
+  "Chicago\u202fHouse": {
+    "description": "Unvarying beats, storming bass\u2011lines and percussion.",
+    "artists": ["M/A/R/R/S"],
+    "derivatives": ["Techno"]
+  },
+  "Acid\u202fHouse": {
+    "description": "Hypnotic beats, spoken lyrics and that squelchy sound.",
+    "artists": ["808\u202fState", "S\u2019Express"],
+    "derivatives": ["Techno"]
+  },
+  "Deep\u202fHouse": {
+    "description": "Long jazzy chords and lots of vocals for a sophisticated spin.",
+    "artists": ["Basement\u202fJaxx", "Mr\u202fScruff"],
+    "derivatives": ["UK\u202fGarage"]
+  },
+  "ProgHouse": {
+    "description": "Euro\u2011electro meets African\u2011American styles. Hard. Very hard.",
+    "artists": ["Underworld", "Orbital"],
+    "derivatives": []
+  },
+  "Ambient\u202fHouse": {
+    "description": "Long tracks that build and build and build.",
+    "artists": ["Future\u202fSound\u202fof\u202fLondon", "The\u202fKLF"],
+    "derivatives": []
+  },
+  "UK\u202fGarage": {
+    "description": "House speeded up to appeal to drum & bass heads.",
+    "artists": ["Ms\u202fDynamite", "So\u202fSolid\u202fCrew"],
+    "derivatives": ["2Step"]
+  },
+  "2Step": {
+    "description": "Lurching funk feel with just two\u202f\u2013 two! \u2013 kick drums.",
+    "artists": ["Artful\u202fDodger", "Horsepower"],
+    "derivatives": ["Grime"]
+  },
+  "Grime": {
+    "description": "Odd instruments, guttural bass\u2011lines, choppy sound, darkness.",
+    "artists": ["Dizzee\u202fRascal", "Kano"],
+    "derivatives": []
+  },
+  "Tech\u202fHouse": {
+    "description": "The steely techno sound blended with more soulful, jazzy house sounds.",
+    "artists": ["Mr\u202fC", "Eddie\u202fRichards"],
+    "derivatives": []
+  },
+  "Electro": {
+    "description": "Robotic beats plus sounds and attitudes of Euro bands.",
+    "artists": ["Jeff\u202fMills", "Juan\u202fAtkins"],
+    "derivatives": ["Detroit\u202fTechno", "House"]
+  },
+  "Detroit\u202fTechno": {
+    "description": "",
+    "artists": [],
+    "derivatives": ["TripHop"]
+  },
+  "Techno": {
+    "description": "",
+    "artists": [],
+    "derivatives": ["Hardcore\u202fTechno", "Rave", "IDM", "Detroit\u202fTechno"]
+  },
+  "Rave": {
+    "description": "",
+    "artists": [],
+    "derivatives": ["Trance"]
+  },
+  "Hardcore\u202fTechno": {
+    "description": "Techno given a European, slightly industrial edge.",
+    "artists": ["Scooter", "Neophyte"],
+    "derivatives": ["Gabba"]
+  },
+  "Gabba": {
+    "description": "Fast, distorted drums, screamed vocal about drugs.",
+    "artists": ["3\u202fSteps\u202fAhead"],
+    "derivatives": ["Digital\u202fHardcore", "Happy\u202fHardcore"]
+  },
+  "Digital\u202fHardcore": {
+    "description": "Fast, abrasive, heavy, angry, shouty.",
+    "artists": ["Atari\u202fTeenage\u202fRiot", "Lolita\u202fStorm"],
+    "derivatives": []
+  },
+  "Happy\u202fHardcore": {
+    "description": "Simple, spacey, speedy, happy now?",
+    "artists": ["DJ\u202fBreeze", "Darren\u202fStyles"],
+    "derivatives": ["Speedcore"]
+  },
+  "Speedcore": {
+    "description": "250\u202fbeats per minute.",
+    "artists": ["Gabba\u202fFront\u202fBerlin", "M1dy"],
+    "derivatives": ["Extratone"]
+  },
+  "Extratone": {
+    "description": "Now this is getting ridiculous \u2013\u00a01000\u202fbpm+",
+    "artists": ["Nihil\u202fFist", "Daisy\u202fCutter"],
+    "derivatives": []
+  },
+  "IDM": {
+    "description": "Intelligent dance music of an experimental nature.",
+    "artists": ["Aphex\u202fTwin", "Cylob"],
+    "derivatives": ["Glitch", "Wonky"]
+  },
+  "Glitch": {
+    "description": "Sounds like your CD skipping / computer crashing.",
+    "artists": ["Prefuse\u202f73", "The\u202fGlitch\u202fMob"],
+    "derivatives": ["Wonky"]
+  },
+  "Wonky": {
+    "description": "Stuttering, broken, warped with break\u2011beat feel. Dance or nod.",
+    "artists": ["Hudson\u202fMohawke", "Christian\u202fVogel"],
+    "derivatives": []
+  },
+  "Trance": {
+    "description": "Pulsing dance\u2011trance sprinkled with sci\u2011fi samples.",
+    "artists": ["Paul\u202fOakenfold", "Armin"],
+    "derivatives": ["Goa", "Uplifting\u202fTrance", "Prog\u202fTrance", "Ambient\u202fHouse"]
+  },
+  "Goa": {
+    "description": "",
+    "artists": [],
+    "derivatives": []
+  },
+  "Uplifting\u202fTrance": {
+    "description": "Bland mechanised dance music (Germany\u2019s big export).",
+    "artists": ["Darude", "Brooklyn\u202fBounce"],
+    "derivatives": []
+  },
+  "Prog\u202fTrance": {
+    "description": "Can trance progress? Apparently so.",
+    "artists": ["Paul\u202fvan\u202fDyk", "Laurent\u202fVeronnez"],
+    "derivatives": []
+  },
+  "Ambient\u202fHouse": {
+    "description": "Long tracks that build and build and build.",
+    "artists": ["Future\u202fSound\u202fof\u202fLondon", "The\u202fKLF"],
+    "derivatives": []
+  },
+  "TripHop": {
+    "description": "Downtempo, moody, dreamy, gloomy. British.",
+    "artists": ["Massive\u202fAttack", "Portishead"],
+    "derivatives": ["Big\u202fBeat"]
+  },
+  "Big\u202fBeat": {
+    "description": "Heavy break\u2011beats and loops from classic songs.",
+    "artists": ["Fatboy\u202fSlim", "Chemical\u202fBrothers"],
+    "derivatives": ["Digital\u202fHardcore"]
+  }
+}
